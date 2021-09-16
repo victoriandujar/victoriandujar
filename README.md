@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**victoriandujar/victoriandujar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi my name is victoria, i am currently studying systems analysis and development at fatec.
 
-Here are some ideas to get you started:
+👩‍💻 About Me
+I started studying programming 5 years ago, I love studying web technologies and UI&UX design is my passion 💜
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+😃 Hobbies
+In my spare time I love hanging out with my cats, and playing games. I really like watching horror movies and Tim Burton <3 I love watching and listening to music from the 80s 💜
+
+<div>
+  <a href="https://github.com/victoriandujar">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victoriandujar&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoriandujar&layout=compact&langs_count=7&theme=dark"/>
+</div>
