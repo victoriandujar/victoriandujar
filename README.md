@@ -15,6 +15,8 @@ In my spare time I love hanging out with my cats, and playing games. I really li
   <a href="https://steamcommunity.com/id/vicdotrembala" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
 </div>
 
+##
+
 <div>
   <a href="https://github.com/victoriandujar">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victoriandujar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
