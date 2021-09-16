@@ -27,5 +27,5 @@ In my spare time I love hanging out with my cats, and playing games. I really li
 </div>
   
  <div>
-  <img align="center" alt="" height="30" width="150" src="https://komarev.com/ghpvc/?username=victoriandujar&color=purple" alt="victoriandujar" /><br>
+  <img align="center" alt="" height="30" width="150" src="https://komarev.com/ghpvc/?username=victoriandujar&color=blue" alt="victoriandujar" /><br>
  </div>  
