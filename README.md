@@ -18,6 +18,7 @@ In my spare time I love hanging out with my cats, and playing games. I really li
 </div>
 
 <div>
+ <br />
  <img src="https://media3.giphy.com/media/8kdLHlYG2qYDe/giphy.gif?cid=ecf05e47fknkv1wk8kmvil3jsgi0tdlvvnz1x53xybns9a35&rid=giphy.gif&ct=g" alt="pink_floyd" /> 
 </div>
 
