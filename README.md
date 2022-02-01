@@ -6,7 +6,7 @@ Hi my name is victoria, i am currently studying systems analysis and development
 I started studying programming 5 years ago, I love studying web technologies and UI&UX design is my passion 💜
 
 😃  Hobbies<br/>
-In my spare time I love hanging out with my cats, and playing games. I really like watching horror movies and Tim Burton <3 I love watching and listening to music from the 80s 💜
+In my spare time I love hanging out with my cats, listening to music and playing games. 💜
 
 <div>
  🌎 Find me around the web<br/>
