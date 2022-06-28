@@ -16,14 +16,7 @@ In my spare time I love hanging out with my cats, listening to music and playing
   <a href="https://steamcommunity.com/id/vicdotrembala" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
  </div>
 </div>
-
-<div>
- <br />
- <img src="https://media3.giphy.com/media/8kdLHlYG2qYDe/giphy.gif?cid=ecf05e47fknkv1wk8kmvil3jsgi0tdlvvnz1x53xybns9a35&rid=giphy.gif&ct=g" alt="pink_floyd" /> 
-</div>
-
 ##
-
 <div>
   <a href="https://github.com/victoriandujar">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoriandujar&layout=compact&langs_count=7&theme=tokyonight"/>
