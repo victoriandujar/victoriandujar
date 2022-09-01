@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-Hi my name is victoria, i am currently studying systems analysis and development at fatec.
+Hi my name is victoria, i'm graduated in systems analysis and development at Fatec.
 
 👩‍💻  About Me<br/>
-I started studying programming 6 years ago, I love studying web technologies and UI&UX design is my passion 💜
+I started studying programming 6 years ago, I love studying web technologies and UI&UX design 💜
 
 😃  Hobbies<br/>
 In my spare time I love hanging out with my cats, listening to music and playing games. 💜
