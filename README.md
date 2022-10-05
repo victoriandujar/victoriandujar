@@ -17,11 +17,6 @@ In my spare time I love hanging out with my cats, listening to music and playing
  </div>
 </div>
 
-<div>
-  <a href="https://github.com/victoriandujar">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoriandujar&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
  <div style="display: inline_block"><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" width="40" />
